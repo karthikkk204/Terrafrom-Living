@@ -32,5 +32,3 @@ Quote selections are saved in `sessionStorage` for the current browser tab. The 
 - `public/images/` — original website images, including the hero and product photography.
 - `vite.config.js` — standard Vite, React and Tailwind plugin configuration.
 
-## Notes
-This is a client-side React app. The original visual content and images are preserved, and the app uses a standard Vite + React setup. Product names, sustainability statements, contact details and export terms are sample content; update them before publishing for a real business.
